@@ -2,6 +2,10 @@
 
 This is the home of the official lineage information for the Plum Village tradition
 
+The main source for this data is in the following article by Brother Pháp Dụng:
+
+http://orderofinterbeing.org/docs/TNH-Tradition-Lineage.pdf
+
 Visit the following link for the Zen masters Siêu Bạch and Khoáng Viên, and continue backwards to Lâm Tế:
 
 http://vnbet.vn/lich-su-truyen-thua-thien-phai-lam-te-chuc-thanh/to-thu-69-thien-su-khoang-vien-bon-qua-to-thu-70-thien-su-sieu-bach-tho-tong-4525-4525.html
